@@ -248,6 +248,7 @@ $ bwa
 > If you prefer to install from source, follow the instructions below:
 >
 > ~~~
+> $ mkdir ~/src
 > $ cd ~/src
 > $ curl -OkL https://github.com/samtools/samtools/releases/download/1.3/samtools-1.3.tar.bz2
 > $ tar jxvf samtools-1.3.tar.bz2
