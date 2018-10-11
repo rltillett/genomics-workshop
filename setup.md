@@ -259,7 +259,7 @@ $ bwa
 > Add directory to the path if necessary:
 >
 > ~~~
-> $ echo export `PATH=~/src/samtools-1.3:$PATH` >> ~/.bashrc
+> $ echo export 'PATH=~/src/samtools-1.3:$PATH' >> ~/.bashrc
 > $ source ~/.bashrc
 > ~~~
 > {: .bash}
@@ -306,7 +306,7 @@ $ samtools
 > Add directory to the path if necessary:
 >
 > ~~~
-> $ echo export `PATH=~/src/bcftools-1.5:$PATH` >> ~/.bashrc
+> $ echo export 'PATH=~/src/bcftools-1.5:$PATH' >> ~/.bashrc
 > $ source ~/.bashrc
 > ~~~
 > {: .bash}
